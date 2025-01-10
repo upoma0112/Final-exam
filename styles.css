@@ -9,3 +9,22 @@
     background-color: #e1f8d6;
     color: #333;
   }
+
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+  }
+  
+  header p {
+    font-size: 1rem;
+  }
+  
+  main {
+    padding: 20px;
+  }
